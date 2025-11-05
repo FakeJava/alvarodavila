@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy **Alvaro Dávila**
+## 👋 ¡Hola! Soy **Alvaro Eduardo Dávila González**
 
 🎓 Estudiante de Ingeniería en Sistemas  
 💻 Especializado en **Desarrollo Frontend** y **Gestión de Bases de Datos**  
@@ -13,6 +13,7 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Vue](https://skillicons.dev/icons?i=vue)
 ![Figma](https://skillicons.dev/icons?i=figma)
 
